@@ -20,7 +20,7 @@ env:
   JOB_NAME: "guestbook_project"
   JFrog_Project: "sato"
   JF_URL: "htabbysandbox.jfrog.io"
-  Application_Key: "sato"
+  Application_Key: "demo"
   OIDC-PROVIDER-NAME: "sato-demo"
   # NOTE
   #  Settings > Secrets and variables > Actions > Repository secrets に JFROG_CLI_SIGNING_KEY　を追加
