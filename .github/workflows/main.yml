@@ -18,7 +18,7 @@ permissions:
 
 env:
   JOB_NAME: "guestbook_project"
-  JFrog_Project: "sato-demo"
+  JFrog_Project: "sato"
   JF_URL: "htabbysandbox.jfrog.io"
   Application_Key: "sato"
   OIDC-PROVIDER-NAME: "sato-demo"
